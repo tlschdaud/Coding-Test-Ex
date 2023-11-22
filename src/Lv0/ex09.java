@@ -1,3 +1,5 @@
+package Lv0;
+
 import java.util.Scanner;
 
 public class ex09 {

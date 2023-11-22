@@ -1,3 +1,5 @@
+package Lv0;
+
 public class ex05 {
     public static void main(String[] args) {
         String a = "!@#$%^&*(\\'\"<>?:;";
